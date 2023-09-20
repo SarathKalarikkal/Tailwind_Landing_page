@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts": {
+    "dev": "tailwindcss -i ./src/style.css -o ./public/style.css --watch"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}
